@@ -1,0 +1,128 @@
+[
+  {
+    "id": "1",
+    "title": "Image 1",
+    "image": "assets/images/wall1.jpg",
+    "category": "Category 1",
+    "views": 1000
+  },
+  {
+    "id": "2",
+    "title": "Image 2",
+    "image": "assets/images/wall2.jpg",
+    "category": "Category 2",
+    "views": 2000
+  },
+  {
+    "id": "3",
+    "title": "Image 3",
+    "image": "assets/images/wall3.jpg",
+    "category": "Category 3",
+    "views": 3000
+  },
+  {
+    "id": "4",
+    "title": "Image 4",
+    "image": "assets/images/wall4.jpg",
+    "category": "Category 4",
+    "views": 4000
+  },
+  {
+    "id": "5",
+    "title": "Image 5",
+    "image": "assets/images/wall5.jpg",
+    "category": "Category 5",
+    "views": 5000
+  },
+  {
+    "id": "6",
+    "title": "Image 6",
+    "image": "assets/images/wall6.jpg",
+    "category": "Category 6",
+    "views": 6000
+  },
+  {
+    "id": "7",
+    "title": "Image 7",
+    "image": "assets/images/wall7.jpg",
+    "category": "Category 7",
+    "views": 7000
+  },
+  {
+    "id": "8",
+    "title": "Image 8",
+    "image": "assets/images/wall8.jpg",
+    "category": "Category 8",
+    "views": 8000
+  },
+  {
+    "id": "9",
+    "title": "Image 9",
+    "image": "assets/images/wall9.jpg",
+    "category": "Category 9",
+    "views": 9000
+  },
+  {
+    "id": "10",
+    "title": "Image 10",
+    "image": "assets/images/wall10.jpg",
+    "category": "Category 10",
+    "views": 10000
+  },
+  {
+    "id": "11",
+    "title": "Image 11",
+    "image": "assets/images/wall11.jpg",
+    "category": "Category 11",
+    "views": 11000
+  },
+  {
+    "id": "12",
+    "title": "Image 12",
+    "image": "assets/images/wall12.jpg",
+    "category": "Category 12",
+    "views": 12000
+  },
+  {
+    "id": "13",
+    "title": "Image 13",
+    "image": "assets/images/wall13.jpg",
+    "category": "Category 13",
+    "views": 13000
+  },
+  {
+    "id": "14",
+    "title": "Image 14",
+    "image": "assets/images/wall14.jpg",
+    "category": "Category 14",
+    "views": 14000
+  },
+  {
+    "id": "15",
+    "title": "Image 15",
+    "image": "assets/images/wall15.jpg",
+    "category": "Category 15",
+    "views": 15000
+  },
+  {
+    "id": "16",
+    "title": "Image 16",
+    "image": "assets/images/wall16.jpg",
+    "category": "Category 16",
+    "views": 16000
+  },
+  {
+    "id": "17",
+    "title": "Image 17",
+    "image": "assets/images/wall17.jpg",
+    "category": "Category 17",
+    "views": 17000
+  },
+  {
+    "id": "18",
+    "title": "Image 18",
+    "image": "assets/images/wall18.jpg",
+    "category": "Category 18",
+    "views": 18000
+  }
+]

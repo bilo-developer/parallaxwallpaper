@@ -1,0 +1,48 @@
+name: parallax
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  path_provider: ^2.1.1
+  image_picker: ^1.0.4
+  flutter_image_compress: ^2.1.0
+  animated_text_kit: ^4.2.2
+  sensors_plus: ^3.0.2
+  webview_flutter: ^4.4.2
+  flutter_gif: ^0.0.4
+  flutter_colorpicker: ^1.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/data/wallpapers.json
+    - assets/images/wall1.jpg
+    - assets/images/wall2.jpg
+    - assets/images/wall3.jpg
+    - assets/images/wall4.jpg
+    - assets/images/wall5.jpg
+    - assets/images/wall6.jpg
+    - assets/images/wall7.jpg
+    - assets/images/wall8.jpg
+    - assets/images/wall9.jpg
+    - assets/images/wall10.jpg
+    - assets/images/wall11.jpg
+    - assets/images/wall12.jpg
+    - assets/images/wall13.jpg
+    - assets/images/wall14.jpg
+    - assets/images/wall15.jpg
+    - assets/images/wall16.jpg
+    - assets/images/wall17.jpg
+    - assets/images/wall18.jpg
